@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bakejoon-1012/1.0.0": {
+        "runtime": {
+          "bakejoon-1012.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bakejoon-1012/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
